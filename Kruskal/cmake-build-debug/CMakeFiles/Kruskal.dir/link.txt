@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Kruskal.dir/objects.a
-C:\mingw\bin\ar.exe cr CMakeFiles\Kruskal.dir/objects.a @CMakeFiles\Kruskal.dir\objects1.rsp
-C:\mingw\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Kruskal.dir/objects.a -Wl,--no-whole-archive  -o Kruskal.exe -Wl,--out-implib,libKruskal.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Kruskal.dir\linklibs.rsp
